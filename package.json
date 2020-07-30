@@ -1,0 +1,15 @@
+{
+  "name": "hexo-webnary-theme",
+  "version": "1.0.1",
+  "description": "Hexi Flat Modular Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-theme"
+  ],
+  "author": "Bravo68web <jbandyopadhayaya@gmail.com> (https://bravo68web.dfcommunity.win/)",
+  "license": "MIT"
+}
