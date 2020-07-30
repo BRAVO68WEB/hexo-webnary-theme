@@ -1,15 +1,15 @@
-## hexo-theme-skapp
-- [中文文档](./README-cn.md)
+## hexo-webnary-theme
+
 ### Project Introduction
 
-This project is a hexo theme named skapp. 
-[Demo](http://blog.minfive.com/)
+This project is a hexo theme named Web-Nary 
+[Demo](http://library.dfcommunity.win/)
 
 #### theme effect
 ![theme effect](http://blog.static.minfive.com/other/Skapp.png)
 
 #### language support
-`skapp` supports `zh-cn` and `en` by default. If you need other languages, you can extend it by yourself(to put the language yml file into the `languages` folder under the `hexo-theme-skapp` directory).
+`skapp` supports `en` by default. If you need other languages, you can extend it by yourself(to put the language yml file into the `languages` folder under the `hexo-webnary-theme` directory).
 
 ### How to use
 1. Follow the [hexo official document](https://hexo.io/) to build the basic blog.
@@ -17,10 +17,10 @@ This project is a hexo theme named skapp.
 
 **note**：**We recommend use node LTS version like node 8.9.3 because nodejieba 2.2.5 dependency has a build error in node 10 version** 
 
-2. use `git` to clone `hexo-theme-skapp` into the theme folder under your blog project directory.
+2. use `git` to clone `hexo-webnary-theme` into the theme folder under your blog project directory.
 ```shell
 cd themes
-git clone https://github.com/Mrminfive/hexo-theme-skapp.git
+git clone https://github.com/BRAVO68WEB/hexo-webnary-theme.git
 ```
 
 3. To modify the root `_config.yml` and install node dependencies.
@@ -47,7 +47,6 @@ Now, skapp support two kinds of language:
 | language|  code  |
 | ------- | ----- |
 | English | en |
-| 简体中文 | zh-cn |
 
 #### configure the menu
 To edit the root `_config.yml` file and set the `menu` item：
@@ -116,13 +115,13 @@ to edit the root `_config.yml` file：
 ``` yml
 # Site
 # blog's title
-title: MINFIVE
+title: "Web Nary"
 
 # subtitle in the banner header
-subtitle: MINFIVE BLOG
+subtitle: "WebNary Blog"
 
 # introduction  in the banner header
-subtitle_desc: 日常学习与兴趣交流
+subtitle_desc: "An Initiative by Community"
 
 # seo keyword
 keywords: minfive, minfive blog, 前端博客, 前端, 程序员, 前端开发, 全栈开发, node.js, javascript
