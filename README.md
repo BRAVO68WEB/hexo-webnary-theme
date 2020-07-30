@@ -40,7 +40,7 @@ After finishing the install, you can preview your blog: `hexo server`(If you mee
 #### set support language
 To edit the root `_config.yml` file:
 ```yml
-language: zh-cn
+language: en
 ```
 Now, skapp support two kinds of language:
 
