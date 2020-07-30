@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Hexi Flat Modular Theme",
   "main": "index.js",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" } ,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
