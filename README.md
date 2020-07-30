@@ -9,7 +9,7 @@ This project is a hexo theme named Web-Nary
 ![theme effect](http://blog.static.minfive.com/other/Skapp.png)
 
 #### language support
-`skapp` supports `en` by default. If you need other languages, you can extend it by yourself(to put the language yml file into the `languages` folder under the `hexo-webnary-theme` directory).
+`Web-Nary` supports `en` by default. If you need other languages, you can extend it by yourself(to put the language yml file into the `languages` folder under the `hexo-webnary-theme` directory).
 
 ### How to use
 1. Follow the [hexo official document](https://hexo.io/) to build the basic blog.
