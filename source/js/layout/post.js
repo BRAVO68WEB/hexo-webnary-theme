@@ -21,7 +21,7 @@ window.addEventListener('load', function() {
         lintener();
     }
 
-    window._skappPostAnimation = function() {
+    window._webnaryPostAnimation = function() {
         var posts = document.querySelectorAll('article.page__mini-article');
         
         posts.forEach(function(post) {
@@ -55,5 +55,5 @@ window.addEventListener('load', function() {
         });
     }
 
-    window._skappPostAnimation();
+    window._webnaryPostAnimation();
 });

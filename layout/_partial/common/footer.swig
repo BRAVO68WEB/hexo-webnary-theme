@@ -49,7 +49,7 @@
     <section class="footer__bottom">
         <div class="page__container footer__container">
             <p class="footer__copyright">©
-                <a href="https://github.com/DFCommunity/hexo-theme-skapp" target="_blank">Skapp</a> 2020 powered by
+                <a href="https://github.com/DFCommunity/hexo-theme-webnary" target="_blank">webnary</a> 2020 powered by
                 <a href="http://hexo.io/" target="_blank">Hexo</a>, Made with ❤️ by 
                 <a href="https://github.com/BRAVO68WEB" target="_blank">Bravo 68 Web</a>.
             </p>

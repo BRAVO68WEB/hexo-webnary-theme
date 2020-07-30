@@ -134,7 +134,7 @@
             this.container.innerHTML = result;
 
             setTimeout(function() {
-                window._skappPostAnimation();
+                window._webnaryPostAnimation();
             });
         },
 
