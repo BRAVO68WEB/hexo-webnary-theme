@@ -1,10 +1,10 @@
 {
-  "name": "@bravo68web/hexo-webnary-theme",
+  "name": "hexo-webnary-theme",
   "version": "1.0.1",
   "description": "Hexi Flat Modular Theme",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
