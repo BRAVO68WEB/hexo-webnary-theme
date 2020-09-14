@@ -10,7 +10,7 @@ Get it from [Here](https://github.com/DFCommunity/Hexo-Web-Nary/)
 
 ## Project Introduction
 
-This Project is made by DF Community and is Adapted from an old Hexo theme named ![Skapp](https://github.com/Mrminfive/hexo-theme-skapp). This is NOT a entirely a "New Idea" but an upgrade and advancement to existing a Hexo Theme. For any Query and Error Troubleshooting contact the Maintainer at "bravo68web@dfcommunity.win" or through Pull Request.
+This Project is made by DF Community and is Adapted from an old Hexo theme named [Skapp](https://github.com/Mrminfive/hexo-theme-skapp). This is NOT a entirely a "New Idea" but an upgrade and advancement to existing a Hexo Theme. For any Query and Error Troubleshooting contact the Maintainer at "bravo68web@dfcommunity.win" or through Pull Request.
 
 This project is a Hexo Theme named Web-Nary 
 [Demo](http://webnary.netlify.app/)
