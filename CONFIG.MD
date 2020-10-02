@@ -181,45 +181,6 @@ Each array in this file represents a list of link(e.g. `friend_links`). Web-Nary
 #### Personalized Configuration
 Web-Nary uses `sass` precompiled style and packages all the baisc styles in the `_theme.scss` file under the `hexo-theme-Web-Nary/source/scss` directory:
 
-``` scss
-/**
- * blog theme 
- */
-
-$main-color: #dd7c06                                !default;
-$main-color--hover: darken($main-color, 10%)       !default;
-
-$font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,"PingFang SC","Lantinghei SC","Microsoft Yahei","Hiragino Sans GB","Microsoft Sans Serif","WenQuanYi Micro Hei",sans           !default;
-
-$main-fc: rgb(255, 255, 255)                                      !default;
-$main-fs: 20px                                      !default;
-$main-lh: 1.7                                       !default;
-
-$title-fc: #ffffff                                  !default;
-
-$hint-fc: #19d668                                   !default;
-
-$bgc--main: rgb(255, 255, 255)                                    !default;
-$bgc--bottom: #20094b                               !default;
-$bgc--footer: #07945e                               !default;
-
-$border-c: #689ed8                                  !default;
-
-$transition: .3s                                    !default;
-
-$mq-desktop--wide: 1280px                           !default;
-$mq-desktop: 980px                                  !default;
-$mq-mobile: 736px                                   !default;
-
-$pad: 15px                                          !default;
-
-$z-index--bottom: 1                                 !default;
-$z-index--center: 50                                !default;
-$z-index--top: 100                                  !default;
-$color-box-bg: rgb(19, 22, 27);
-$color-mini-post-tile: rgb(9, 35, 75);
-
-```
 
 ### Blog Basic Usage Template
 To configure basic info in your markdown blog file:
