@@ -21,7 +21,8 @@ body {
 
     &:hover {
         box-shadow: 0 0 20px rgba(0, 0, 0, .2);
-
+        border-style: dotted;
+        border-color: rgb(228, 177, 10);
         .mini-article__cover {
             &::before {
                 background-color: rgba(30, 200, 252, 0.9);
