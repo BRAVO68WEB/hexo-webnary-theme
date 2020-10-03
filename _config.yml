@@ -76,7 +76,7 @@ hfc_img:
   multipass: false
   optimizationLevel: 2
   pngquant: false
-  progressive: false
+  progressive: true
 
 hfc_favicons:
   enable: true
