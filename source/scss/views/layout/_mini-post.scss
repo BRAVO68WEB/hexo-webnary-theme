@@ -16,6 +16,8 @@ body {
     box-shadow: 0 0 20px rgba(0, 0, 0, .15);
     transition: box-shadow $transition;
     line-height: 1.4;
+    border-style: solid;
+    border-color: white;
 
     &:hover {
         box-shadow: 0 0 20px rgba(0, 0, 0, .2);
