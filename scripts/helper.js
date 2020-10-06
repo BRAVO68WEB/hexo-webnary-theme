@@ -78,8 +78,8 @@ hexo.extend.helper.register('blog_archive_menu', function(page) {
             <a
                 class="nav__item${isSelect ? ' nav__item--selected' : ''}"
                 href="${isSelect ? 'javascript:void(0)' : item.link}"
-                alt="${item.label}年">
-                ${item.label}年
+                alt="${item.label} year">
+                ${item.label} year
             </a>
         `
     }).join('');

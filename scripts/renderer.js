@@ -108,9 +108,9 @@ hexo.extend.generator.register('lunr', function(locals){
                 cates: cates,
                 cover: post.cover || hexo.config.default_cover || hexo.theme.config.default_cover,
                 desc: post.subtitle || post.excerpt || "",
-                date: moment(post.date).locale('zh-cn').format(),
-                day: moment(post.date).locale('zh-cn').format('D'),
-                month: (language == 'en'?moment(post.date).locale('en').format('MMM'):moment(post.date).locale('zh-cn').format('MMMM')),
+                date: moment(post.date).locale('en-us').format(),
+                day: moment(post.date).locale('en-us').format('D'),
+                month: (language == 'en'?moment(post.date).locale('en-us').format('MMM'):moment(post.date).locale('en-us').format('MMMM')),
                 authorLink: post.author 
                     && post.author.link 
                     || hexo.config.author

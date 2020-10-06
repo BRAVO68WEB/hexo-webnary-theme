@@ -1,13 +1,10 @@
 {
   "name": "hexo-webnary-theme",
-  "version": "1.0.1",
-  "description": "Hexi Flat Modular Theme",
+  "version": "1.0.2",
+  "description": "Hexo Flat Modular Theme",
   "main": "index.js",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "hexo",
